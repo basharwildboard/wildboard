@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Bashar's wildboard game: Welcome to my blog
 ---
 
